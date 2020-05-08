@@ -1,5 +1,5 @@
 var class_sun_button_handler =
 [
-    [ "IsSunPresent", "class_sun_button_handler.html#a53073a3af40980bb18cb451ebf487904", null ],
-    [ "MoveImage", "class_sun_button_handler.html#ab9cea34f242626e0db27a503f7a128d6", null ]
+    [ "MoveImage", "class_sun_button_handler.html#ab9cea34f242626e0db27a503f7a128d6", null ],
+    [ "inFrame", "class_sun_button_handler.html#a8c247f9c29553025f69ca75b477e7ac4", null ]
 ];
